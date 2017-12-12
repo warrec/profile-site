@@ -31,6 +31,16 @@
     
 }
 
+.prof-image2 {
+    max-height: 400px;
+    max-width: 200px;
+    padding-left: 1;
+    padding-top: none;
+    padding-bottom: 80;
+    padding-right: -1px;
+    
+}
+
 .left {
   position:fixed; 
   padding: 10px;
@@ -148,3 +158,9 @@ ul.side-nav {
     background: #55ACEE;
     color: white;
 } 
+
+/* Linkedin */
+.fa-linkedin {
+    background: #007bb5;
+    color: white;
+}
