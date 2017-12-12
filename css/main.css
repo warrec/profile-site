@@ -1,0 +1,72 @@
+.glyphs .glyphicon {
+    font-size: 22px;   
+    color: deepskyblue;
+}
+
+.index-font {
+    font-size: 32px;
+    color: teal;
+}
+
+.index-font2 {
+    font-size: 18px;
+    color: teal;
+    
+}
+
+.button-font {
+    font-size: 18px;
+    
+}
+
+.pill-image::after {
+    font-family: 'Glyphicons Halflings';
+    content: "\e080";
+}
+
+.btn-index {
+  display: inline-block;
+  padding: 6px 12px;
+  margin-bottom: .5;
+  font-size: 22px;
+  font-weight: normal;
+  line-height:1.5;
+  text-align: left;
+  white-space: nowrap;
+  vertical-align: middle;
+  -ms-touch-action: manipulation;
+      touch-action: manipulation;
+  cursor: pointer;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+  background-image: none;
+  border: 1px solid white;
+  border-radius: 4px;
+}
+
+.area {
+  min-height: 20px;
+  padding: 19px;
+  margin-bottom: 20px;
+  background-color: #;
+  border: 1px solid #e3e3e3;
+  border-radius: 4px;
+  -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .05);
+          box-shadow: inset 0 1px 1px rgba(0, 0, 0, .05);
+}
+
+ul.side-nav {
+ position:fixed;
+ width:240px;
+ left:-105%;
+ top:0;
+ margin:0;
+ height:100%;
+ height:calc(100% + 60px);
+ padding-bottom:60px;
+ background-color:#FFF;
+ z-index:999;
+ will-change:left
+}
