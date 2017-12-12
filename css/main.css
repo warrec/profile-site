@@ -21,6 +21,12 @@
     
 }
 
+.social-media-icons {
+    max-height: 20px;
+    max-width: 20px;
+    
+}
+
 .prof-image {
     max-height: 200px;
     max-width: 200px;
@@ -35,10 +41,8 @@
     max-height: 400px;
     max-width: 200px;
     padding-left: 1;
-    padding-top: none;
-    padding-bottom: 80;
-    padding-right: -1px;
-    
+    padding-bottom: 60;
+        
 }
 
 .banner-image1 {
@@ -153,11 +157,12 @@ ul.side-nav {
 
  /* Style all font awesome icons */
 .fa {
-    padding: 20px;
-    font-size: 30px;
+    padding: 30;
+    font-size: 40px;
     width: 50px;
     text-align: center;
-    text-decoration: none;
+    
+    
 }
 
 /* Add a hover effect if you want */
